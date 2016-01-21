@@ -5,8 +5,7 @@ This is a copy of MetalPhreak's ESP8266 SPI Driver. Please note the "protocol pa
 
 ```
 cd esp-open-rtos/extras
-git clone https://github.com/kanflo/eor-spi.git
-mv eor-spi spi
+git clone https://github.com/kanflo/eor-spi.git spi
 ```
 
 Include the driver in your project makefile as any other extra component:
